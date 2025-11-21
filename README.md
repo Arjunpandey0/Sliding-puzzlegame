@@ -1,2 +1,1 @@
-# Sliding-puzzlegame
-Game
+# Sliding-Puzzle
